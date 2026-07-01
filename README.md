@@ -28,5 +28,17 @@ Sample Superstore dataset (Sales, Orders, Discount, Region, Segment, Category, S
 ## Outcome
 Delivered a client-ready dashboard enabling management to track profitability, identify loss-making categories, and optimize discount strategies.
 
+## Screenshots
+<img width="906" height="511" alt="TechHome Home page" src="https://github.com/user-attachments/assets/e2cf4bfc-b3e6-4505-8e4f-2570e14485d1" />
+
+<img width="911" height="524" alt="TechHome year 2016_Qtr2_May Month_profit" src="https://github.com/user-attachments/assets/4756712b-0294-44c9-a804-373726a93d8e" />
+
+<img width="912" height="517" alt="TechHome year 2014_corporate Segment_region Central_profit status Loss" src="https://github.com/user-attachments/assets/1e449561-6027-4015-9a69-e2913e0f5c92" />
+
+<img width="904" height="507" alt="TechHome drill down" src="https://github.com/user-attachments/assets/23989dcf-8c47-4338-9be3-a3102a861f7e" />
+
+<img width="910" height="514" alt="TechHome drill down_2015" src="https://github.com/user-attachments/assets/278af09d-fecb-4a51-9f19-64aa195d7349" />
+
+
 
 
