@@ -10,7 +10,7 @@ This project demonstrates industry-standard BI practices, including KPI cards, c
 - **Consistent Palette**: Navy, teal, green/red for clarity
 
 ## Data Source
-Sample Superstore dataset (Sales, Orders, Discount, Region, Segment, Category, Sub-Category).
+Sample store dataset .xlsx (Sales, Orders, Discount, Region, Segment, Category, Sub-Category).
 
 ## Business Insights
 - Technology category leads profit growth.
@@ -20,8 +20,9 @@ Sample Superstore dataset (Sales, Orders, Discount, Region, Segment, Category, S
 - Furniture and Bookcases show losses; need corrective pricing or cost control.
 
 ## Tools & Skills
-- Power BI Desktop
-- DAX (measures, dynamic title, conditional formatting)
+- Power BI Desktop, Microsoft Excel
+- Power Query Editor (data cleaning and formatting, data profiling)
+- DAX (measures, dynamic title, conditional formatting, hierarchy, and drill down)
 - Data modeling (Date table, relationships)
 - Visualization design & storytelling
 
